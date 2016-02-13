@@ -1,0 +1,28 @@
+name: Thomas Gfeller
+favicon: null
+layout_spectrum: 0.2321086951997131
+typography_spectrum: 0.3622153657488525
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7853316531982273
+  lightness: 0.3282015761360526
+  saturation: 0.4412227049469948
+  rhythmicContrast: 0.2832181628327817
+purpose: []
