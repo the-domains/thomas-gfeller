@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Thomas Gfeller]]></title>
+        <description><![CDATA[Thomas Gfeller]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 23 Feb 2016 03:11:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Balloons Over Bagan]]></title>
+            <description><![CDATA[<article><h1>Balloons Over Bagan</h1><p>Recently I travelled around Myanmar for a month and was lucky enough to go Hot Air Ballooning over Bagan. Music: "Goodbye" by Apparat Shot on Panasonic GH4 in CineD Panasonic 12-35mm f2.8 Check out my other video https://vimeo.com/123589738</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab98d39dcd2de274049178bf914a6f63a295842e.jpg"></article>]]></description>
+            <link>https://vimeo.com/121025572</link>
+            <guid isPermaLink="false">a1557921-500d-4e78-8963-cfb848849157</guid>
+            <pubDate>Tue, 23 Feb 2016 03:11:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
