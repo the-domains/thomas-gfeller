@@ -1,9 +1,7 @@
-favicon: null
 name: Thomas Gfeller
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.2411
+typography_spectrum: 0.3622153657488525
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4412227049469948
-  brandStrength: 0.7853316531982273
-  lightness: 0.3282015761360526
   brandColors:
     - '#302630'
     - '#C5BEAB'
     - '#644C4B'
     - '#FBFCF2'
     - '#76A487'
+  brandStrength: 0.7853316531982273
+  lightness: 0.3282015761360526
+  saturation: 0.4412227049469948
   rhythmicContrast: 0.2832181628327817
-typography_spectrum: 0.3622153657488525
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.2411
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+purpose: []
